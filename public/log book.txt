@@ -1,0 +1,78 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok:Bank Sueb
+Judul Topik:Sistem Database ERD
+Alamat Github:https://github.com/DediJosua/ERD
+Alamat Trello:https://trello.com/b/MK917NaM/sistem-database-erd
+Anggota 1:
+	Nama:Dedi Josua Situmorang
+	NIM:12 111 1516
+Anggota 2:
+	Nama:Ilhamdi
+	NIM:
+Anggota 3:
+	Nama:Lamhot nababan
+	NIM:12 111 3851
+Anggota 4:
+	Nama:Markus Apriadi Sitohan
+	NIM:12 111 1518
+=======================
+
+SPRINT
+------
+Sprint 1:Elemen-ERD 
+29/5 - 31/5
+Scrummaster: Dedi Josua Situmorang (12 111 1516)
+
+Sprint 2:Jenis-jenis atribut
+
+
+Sprint 3: 
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+29/5 
+Daily Scrum
+(Dedi josua):
+1. Semalam saya melengkapi semua aplikasi
+2. Hari ini saya upload file node
+3. Saya ada kendala di saat penginstalan bespoke,node.js
+
+(ilhamdi):
+1. Semalam saya melengkapi semua aplikasi
+2. Hari ini saya test push
+3. Saya ada kendala di saat penginstalan source tree,bespoke
+
+(Markus apriadi sitohang):
+1.
+2.
+3.saya ada kendala dalam penginstalan node.js.bespoke.source tree,git
+
+(Lamhot nababan):
+1.
+2.
+3.saya ada kendala dalam penginstalan node.js.bespoke.source tree,git
+
+30/5
+Daily Scrum
+(Dedi Josua)
+1.Semlam saya upload file node
+2.hari ini saya push atribut ERD 
+3.
+
+(Ilhamdi):
+1.Semlam saya test push
+2.Hari ini saya push sejarah ERD
+3.
+
+(Markus Apriadi sitohang):
+1.
+2.
+3.saya ada kendala dalam penginstalan node.js.bespoke.source tree,git
+
+(Lamhot nababan):
+1.
+2.
+3.saya ada kendala dalam penginstalan node.js.bespoke.source tree,git
