@@ -21,7 +21,7 @@ Anggota 4:
 
 SPRINT
 ------
-Sprint 1:Elemen-ERD 
+Sprint 1:Sejarah ERD
 29/5 - 31/5
 Scrummaster: Dedi Josua Situmorang (12 111 1516)
 
