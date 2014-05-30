@@ -10,7 +10,7 @@ Anggota 1:
 	NIM:12 111 1516
 Anggota 2:
 	Nama:Ilhamdi
-	NIM:
+	NIM: 12 111 3479
 Anggota 3:
 	Nama:Lamhot nababan
 	NIM:12 111 3851
@@ -21,7 +21,7 @@ Anggota 4:
 
 SPRINT
 ------
-Sprint 1:Sejarah ERD
+Sprint 1:Elemen-ERD 
 29/5 - 31/5
 Scrummaster: Dedi Josua Situmorang (12 111 1516)
 
