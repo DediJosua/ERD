@@ -76,18 +76,26 @@ html
           p Contoh : Seorang customer dapat membeli beberapa barang dan sebuah barang dapat dibeli oleh beberapa customer (relasi many-to-many)
 
       section
-        h2 Syntax Highlighting
-        h3 Powered by <a href="http://twitter.com/LeaVerou">Lea Verou</a>'s <a href="https://github.com/LeaVerou/prism">Prism</a>
+        h2 Tahapan Pembuatan ERD
+        h3 Tahap 1 : Penentuan Entitas
         hr
         pre
-          code.language-javascript.
-            bespoke.from('article', {
-              keys: true,
-              touch: true,
-              hash: true,
-              state: true,
-              bullets: 'li, .bullet'
-            });
+           Mahasiswa:
+			• nim: nomor induk mahasiswa (integer) PK
+			• nama_mhs: nama lengkap mahasiswa (string)
+			• alamat_mhs: alamat lengkap mahasiswa (string)
+		   Dosen:
+			• nip: nomor induk pegawai (integer) PK
+			• nama_dosen: nama lengkap dosen (string)
+			• alamat_dosen: alamat lengkap dosen (string)
+		   Mata_kuliah:
+			• kode_mk: kode untuk mata kuliah (integer) PK
+			• nama_mk: nama lengkap mata kuliah (string)
+			• deskripsi_mk: deskripsi singkat mengenai mata kuliah (string)
+		   Ruang:
+			• kode_ruang: kode untuk ruang kelas (string) PK
+			• lokasi_ruang: deskripsi singkat mengenai lokasi ruang kelas (string)
+			• kapasitas_ruang: banyaknya mahasiswa yang dapat ditampung (integer)
 
       section(data-bespoke-hash='named-route')
         h2 Named Route
