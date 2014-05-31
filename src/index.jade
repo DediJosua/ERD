@@ -41,6 +41,16 @@ html
         h3 Atribut
         p Atribut adalah pendeskripsian karakteristik dari entitas. Atribut digambarkan dalam bentuk lingkaran atau elips. Setiap entitas pada atribut memiliki kunci atribut yang bersifat unik. Atribut yang menjadi kunci entitas atau primary key diberi garis bawah
       section
+        h3 Relasi atau Hubungan
+        p Adalah hubungan yang terjadi antara satu atau lebih entitas yang berbeda yang dihubungkan oleh garis
+        h3 Derajat relasi atau kardinalitas rasio
+        p Menjelaskan jumlah maksimum hubungan antara satu entitas dengan entitas lainnya.
+        ul
+          li Satu ke satu (one to one), Setiap anggota entitas A hanya boleh berhubungan dengan satu anggota entitas B, begitu pula sebaliknya.
+          li Satu ke banyak (one to many), Setiap anggota entitas A dapat berhubungan dengan lebih dari satu anggota entitas B tetapi tidak sebaliknya
+          li Banyak ke banyak (many to many), Setiap entitas A dapat berhubungan dengan banyak entitas himpunan entitas B dan demikian pula sebaliknya
+
+      section
         h2 Atribut ERD
         h3 Atribut memberikan informasi lebih rinci tentang jenis entitas. Atribut memiliki struktur internal berupa tipe data<BR>Jenis-jenis atribut:
         ul
@@ -86,23 +96,7 @@ html
         h2 Tahapan Pembuatan ERD
         h3 Tahap 1 : Penentuan Entitas
         hr
-        pre
-           Mahasiswa:
-			• nim: nomor induk mahasiswa (integer) PK
-			• nama_mhs: nama lengkap mahasiswa (string)
-			• alamat_mhs: alamat lengkap mahasiswa (string)
-		   Dosen:
-			• nip: nomor induk pegawai (integer) PK
-			• nama_dosen: nama lengkap dosen (string)
-			• alamat_dosen: alamat lengkap dosen (string)
-		   Mata_kuliah:
-			• kode_mk: kode untuk mata kuliah (integer) PK
-			• nama_mk: nama lengkap mata kuliah (string)
-			• deskripsi_mk: deskripsi singkat mengenai mata kuliah (string)
-		   Ruang:
-			• kode_ruang: kode untuk ruang kelas (string) PK
-			• lokasi_ruang: deskripsi singkat mengenai lokasi ruang kelas (string)
-			• kapasitas_ruang: banyaknya mahasiswa yang dapat ditampung (integer)
+        
 
       section(data-bespoke-hash='named-route')
         h2 Named Route
