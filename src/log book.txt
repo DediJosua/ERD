@@ -28,7 +28,7 @@ Scrummaster: Dedi Josua Situmorang (12 111 1516)
 Sprint 2:Jenis-jenis atribut
 
 
-Sprint 3: 
+Sprint 3: Notasi ERD
 
 Progress Harian (Diupdate tiap hari)
 ------------------------------------
@@ -42,7 +42,7 @@ Daily Scrum
 
 (ilhamdi):
 1. Semalam saya melengkapi semua aplikasi
-2. Hari ini saya test push
+2. Hari ini saya test push dan mencari bahan
 3. Saya ada kendala di saat penginstalan source tree,bespoke
 
 (Markus apriadi sitohang):
@@ -60,12 +60,12 @@ Daily Scrum
 (Dedi Josua)
 1.Semlam saya upload file node
 2.hari ini saya push atribut ERD 
-3.
+3.tidak ada kendala
 
 (Ilhamdi):
-1.Semlam saya test push
+1.Semlam saya test push dan mencari bahan
 2.Hari ini saya push sejarah ERD
-3.
+3.tidak ada kendala
 
 (Markus Apriadi sitohang):
 1.
@@ -73,6 +73,28 @@ Daily Scrum
 3.saya ada kendala dalam penginstalan node.js.bespoke.source tree,git
 
 (Lamhot nababan):
+1.semalam saya melengkapi semua,yang saya gagal instal
+2.hari ini saya cari bahan dan push mengenai relasi
+3.saya kendala mencari bahan
+
+31/5
+Daily Scrum
+(Dedi Josua)
+1.semalam saya push atribut ERD
+2.Hari ini saya mencari bahan entity erd,push entity dan mengedit atribut ERD
+3.tidak ada kendala
+
+(Ilhamdi)
+1.Semlam saya push sejarah ERD
+2.hari ini saya mencari bahan yang saya akan push
+3.kendala tidak bisa push
+
+(Markus Apriadi sitohang):
 1.
 2.
 3.saya ada kendala dalam penginstalan node.js.bespoke.source tree,git
+
+(Lamhot nababan)
+1.semalam saya cari bahan dan push mengenai relasi
+2.hari ini saya cari bahan,edit trello dan mempush kardinalitas
+3.tidak ada kendala
