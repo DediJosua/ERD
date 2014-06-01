@@ -2,19 +2,19 @@
 
 // variables!
 
-slide_width = 640px
-slide_height = 480px
-slide_background = #eaeaea
+slide_width = 1024px
+slide_height = 384px
+slide_background = #ffffff
 
-slide_transition_length = .6s
+slide_transition_length = .5s
 slide_transition_easing = ease
-slide_transition_rotate_y = 90deg
+slide_transition_rotate_y = 0deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
-slide_transition_nudge_x = -100px
+slide_transition_nudge_x = -0px
 
-bullet_transition_length = .3s
+bullet_transition_length = .2s
 bullet_transition_easing = ease
-bullet_transition_translate_x = 16px
+bullet_transition_translate_x = 10px
 
 // base
 
@@ -32,6 +32,31 @@ bullet_transition_translate_x = 16px
   margin: 0
 
 // bespoke.js layout styles
+#container
+  width: 1024
+  
+#navbar
+  width: auto
+  display: block
+  height: 50px
+  background: #DC6F43
+#navbar p
+  font-family: Tahoma, Geneva, sans-serif
+  font-size: 25px
+  color: #000000
+  padding-top:15px
+#footer
+  width: auto
+  display: block
+  height: 50px
+  background: #ffffff
+  margin-top:565px
+
+#footerimage
+  width: 200
+  height: 50
+  background: url(file:///D|/TKPPL/src/image/mikroskil.jpg)  
+
 
 article
   transition: background slide_transition_length slide_transition_easing
@@ -39,10 +64,10 @@ article
   &.bespoke-parent
     display: block
     position: absolute
-    top: 0
-    bottom: 0
-    left: 0
-    right: 0
+    top: 50px
+    bottom: 0px
+    left: 0px
+    right: 0px
     overflow: hidden
     @media print
       overflow: visible
@@ -159,8 +184,8 @@ pre
 
 body
   font-family: helvetica, arial, sans-serif
-  font-size: 18px
-  color: #404040
+  font-size: 14px
+  color: #000000
 
 h1
   font-size: 72px
@@ -196,3 +221,5 @@ p
 a
   color: #0089f3
   text-decoration: none
+
+img
