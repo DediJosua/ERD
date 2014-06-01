@@ -21,7 +21,7 @@
 #navbar {
   width: auto;
   display: block;
-  height: 50px;
+  height: 60px;
   background: #dc6f43;
 }
 #navbar p {
@@ -33,14 +33,9 @@
 #footer {
   width: auto;
   display: block;
-  height: 50px;
+  height: 60px;
   background: #fff;
-  margin-top: 565px;
-}
-#footerimage {
-  width: 200;
-  height: 50;
-  background: url("src/image/mikroskil.jpg");
+  margin-top: 523px;
 }
 article {
   -webkit-transition: background 0.5s ease;
@@ -53,8 +48,8 @@ article {
 article.bespoke-parent {
   display: block;
   position: absolute;
-  top: 50px;
-  bottom: 0px;
+  top: 60px;
+  bottom: 60px;
   left: 0px;
   right: 0px;
   overflow: hidden;
@@ -110,10 +105,10 @@ article.bespoke-parent {
   align-items: center;
   text-align: center;
   width: 1024px;
-  height: 384px;
+  height: 420px;
   position: absolute;
   top: 50%;
-  margin-top: -192px;
+  margin-top: -210px;
   left: 50%;
   margin-left: -512px;
   background: #fff;
