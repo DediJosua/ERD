@@ -30,11 +30,27 @@ html
 
       section
         h2 Sejarah ERD
-      section
-        p Model Entity Relationship diperkenalkan pertama kali oleh P.P. Chen  pada tahun 1976. ERD ini dirancang untuk menggambarkan persepsi dari pemakai  dan berisi obyek-obyek dasar yang disebut entity dan hubungan antar entity-entity tersebut yang disebut relationship
+        h3 Model Entity Relationship diperkenalkan pertama kali oleh P.P. Chen  pada tahun 1976.<BR> ERD ini dirancang untuk menggambarkan persepsi dari pemakai  dan berisi obyek-obyek dasar yang disebut entity dan hubungan antar entity-entity tersebut yang disebut relationship
       section
         h2 Apakah yang dimaksud dengan Entity Relationship Diagram (ERD)?
         h3 Sebuah  ERD menggambarkan data dalam konteks entitas dan hubungannya. Tujuan utama dari sebuah ERD adalah untuk mendokumentasikan struktur logis dari database.
+      section
+        h2 Notasi dalam ERD
+        p Ada beberapa notasi dalam ERD, adapun notasi-notasi tersebut adalah sebagai berikut :
+        h3 Entitas
+        p Entitas adalah objek yang ada dan dapat diberikan dari obyek lain dalam dunia nyata. Entitas adalah atribut yang membedakan dirinya dengan obyek lain
+        h3 Atribut
+        p Atribut adalah pendeskripsian karakteristik dari entitas. Atribut digambarkan dalam bentuk lingkaran atau elips. Setiap entitas pada atribut memiliki kunci atribut yang bersifat unik. Atribut yang menjadi kunci entitas atau primary key diberi garis bawah
+      section
+        h3 Relasi atau Hubungan
+        p Adalah hubungan yang terjadi antara satu atau lebih entitas yang berbeda yang dihubungkan oleh garis
+        h3 Derajat relasi atau kardinalitas rasio
+        p Menjelaskan jumlah maksimum hubungan antara satu entitas dengan entitas lainnya.
+        ul
+          li Satu ke satu (one to one), Setiap anggota entitas A hanya boleh berhubungan dengan satu anggota entitas B, begitu pula sebaliknya.
+          li Satu ke banyak (one to many), Setiap anggota entitas A dapat berhubungan dengan lebih dari satu anggota entitas B tetapi tidak sebaliknya
+          li Banyak ke banyak (many to many), Setiap entitas A dapat berhubungan dengan banyak entitas himpunan entitas B dan demikian pula sebaliknya
+
       section
         h2 Atribut ERD
         h3 Atribut memberikan informasi lebih rinci tentang jenis entitas. Atribut memiliki struktur internal berupa tipe data<BR>Jenis-jenis atribut:
@@ -78,18 +94,10 @@ html
           p Contoh : Seorang customer dapat membeli beberapa barang dan sebuah barang dapat dibeli oleh beberapa customer (relasi many-to-many)
 
       section
-        h2 Syntax Highlighting
-        h3 Powered by <a href="http://twitter.com/LeaVerou">Lea Verou</a>'s <a href="https://github.com/LeaVerou/prism">Prism</a>
+        h2 Tahapan Pembuatan ERD
+        h3 Tahap 1 : Penentuan Entitas
         hr
-        pre
-          code.language-javascript.
-            bespoke.from('article', {
-              keys: true,
-              touch: true,
-              hash: true,
-              state: true,
-              bullets: 'li, .bullet'
-            });
+        
 
       section(data-bespoke-hash='named-route')
         h2 Named Route
