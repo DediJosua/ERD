@@ -96,7 +96,7 @@ module.exports = function(grunt) {
       server: {
         options: {
           port: 8000,
-          hostname: '*', // Remove this line if you only want the server available locally
+          hostname: 'ERD', // Remove this line if you only want the server available locally
           base: 'public',
           keepalive: true,
           middleware: function(connect, options) {
