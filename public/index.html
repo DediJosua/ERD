@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>Team ERD </title>
+    <!-- build:css styles/styles.css-->
+    <link rel="stylesheet" type="text/css" href="bower_components/prism/themes/prism-tomorrow.css">
+    <link rel="stylesheet" type="text/css" href="styles/main.css">
+    <!-- endbuild-->
+  </head>
+  <body>
+    <div id="container">
+      <div id="navbar">
+        <p>PEMODELAN ERD </p>
+      </div>
+      <article>
+        <section>
+          <h1>WELCOME ...!!! </h1>
+        </section>
+        <section>
+          <h1>TEAM ANALISIS SUEB</h1>
+        </section>
+        <section>
+          <h2>Sistem Database ERD</h2>
+          <hr>
+          <ul>
+            <li>Ilhamdi</li>
+            <li>Dedi Josua Situmorang</li>
+            <li>Markus Apriadi Sitohang</li>
+            <li>Lamhot Nababan</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Sejarah ERD</h2>
+          <h3>Model Entity Relationship diperkenalkan pertama kali oleh P.P. Chen  pada tahun 1976.<BR> ERD ini dirancang untuk menggambarkan persepsi dari pemakai  dan berisi obyek-obyek dasar yang disebut entity dan hubungan antar entity-entity tersebut yang disebut relationship</h3>
+        </section>
+        <section>
+          <h2>Apakah yang dimaksud dengan Entity Relationship Diagram (ERD)?</h2>
+          <h3>Sebuah  ERD menggambarkan data dalam konteks entitas dan hubungannya. Tujuan utama dari sebuah ERD adalah untuk mendokumentasikan struktur logis dari database.</h3>
+        </section>
+        <section>
+          <h2>Notasi dalam ERD</h2>
+          <p>Ada beberapa notasi dalam ERD, adapun notasi-notasi tersebut adalah sebagai berikut :</p>
+          <h3>Entitas</h3>
+          <p>Entitas adalah objek yang ada dan dapat diberikan dari obyek lain dalam dunia nyata. Entitas adalah atribut yang membedakan dirinya dengan obyek lain</p>
+          <h3>Atribut</h3>
+          <p>Atribut adalah pendeskripsian karakteristik dari entitas. Atribut digambarkan dalam bentuk lingkaran atau elips. Setiap entitas pada atribut memiliki kunci atribut yang bersifat unik. Atribut yang menjadi kunci entitas atau primary key diberi garis bawah</p>
+        </section>
+        <section>
+          <h2>Atribut ERD</h2>
+          <h3>Atribut memberikan informasi lebih rinci tentang jenis entitas. Atribut memiliki struktur internal berupa tipe data<BR>Jenis-jenis atribut:</h3>
+          <ul>
+            <li>Key, Atribut yang digunakan untuk menentukan suatu entity secara unik.</li>
+            <li>Atribut Simple,Atribut yang bernilai tunggal.</li>
+            <li>Atribut Multivalue , Atribut yang memiliki sekelompok nilai untuk setiap instan entity. </li>
+            <li>Atribut Komposit, Suatu atribut yang terdiri dari beberapa atribut yang lebih kecil yang mempunyai arti tertentu. </li>
+            <li>Atribut Derivatif, suatu atribut yg dihasilkan dari atribut yang lain.</li>
+          </ul>
+        </section>
+        <section>
+          <h2>RELASI (Relationship)</h2>
+          <p>Relasi adalah hubungan antara tabel yang mempresentasikan hubungan antar objek di dunia nyata yang terjadi antara satu atau lebih entitas yang berbeda yang dihubungkan oleh garis relasi(relationship).</p>
+          <p>Dimana juga terdapat berbagai macam dari Relasi (Relationship):</p>
+          <ul>
+            <li>One-to-many (Setiap anggota entitas A dapat berhubungan dengan lebih dari satu anggota entitas B tetapi tidak sebaliknya).</li>
+            <li>one-to-one (Setiap anggota entitas A hanya boleh berhubungan dengan satu anggota entitas B, begitu pula sebaliknya).</li>
+            <li>many-to-many (Setiap entitas A dapat berhubungan dengan banyak entitas himpunan entitas B dan demikian pula sebaliknya).</li>
+          </ul>
+        </section>
+        <section>
+          <h2>Entity/Entitas</h2>
+          <p>Segala sesuatu yang dapat digambarkan oleh data. </p>
+          <p>Entitas juga dapat diartikan sebagai individu yang mewakili sesuatu yang nyata dan dapat dibedakan dari sesuatu yang lain (Fathansyah, 1999).</p>
+          <p>Ada dua macam entitas yaitu entitas kuat dan entitas lemah. Entitas kuat merupakan entitas yang tidak memiliki ketergantungan dengan entitas lainnya</p>
+          <p>Sedangkan entitas lemah merupakan entitas yang kemunculannya tergantung pada keberadaaan entitas lain dalam suatu relasi.</p>
+        </section>
+        <section>
+          <h2>Contoh Entity/Entitas</h2>
+          <p>Individu : Pegawai, pelanggan, mahasiswa, distributor ObjekPeristiwa</p>
+          <p>Tempat : ruang, bangunan, kantor, lapangan, kampus</p>
+          <p>Objek : Buku, Motor, paket, software, produk</p>
+          <p>Peristiwa : Pendaftaran , pemesanan, penagihan</p>
+          <p>Konsep : Rekening, kualifikasi</p>
+        </section>
+        <section>
+          <h2>Cardinalitas</h2>
+          <p>Cardinalitas merupakan jumlah minimum dan maksimum dari hubungan antar entitas,disebabkan berhubungan bersifat dua arah (bidirectional).</p>
+          <p>Contoh : Seorang dosen paling banyak mengambil satu jurusan tetapi ada dosen yang tidak menjadi ketua jurusan (relasi one-to-one)</p>
+          <p>Contoh : Seorang dosen bisa menerima honor beberapa kali, tetapi mungkin juga tidak menerima honor jika ia tidak mengajar (relasi one-to many)</p>
+          <p>Contoh : Seorang customer dapat membeli beberapa barang dan sebuah barang dapat dibeli oleh beberapa customer (relasi many-to-many)</p>
+        </section>
+        <section>
+          <h2>Tahapan Pembuatan ERDli</h2>
+          <h3>Tahap 1 : Penentuan Entitas</h3>
+          <h3>Tahap 2 : Penentuan Atributli</h3>
+          <h3>Tahap 3 : Kardinalitas Relasi</h3>
+          <h3>Tahap 4 : Tahapan Pembuatan ERD </h3>
+        </section>
+        <section>
+          <h2>Jenis Key Pada ERD</h2>
+        </section>
+        <section data-bespoke-state="emphatic">
+          <h2>Emphatic Slide!</h2>
+          <h3>Powered by <a href="https://github.com/markdalgleish/bespoke-state">bespoke-state</a></h3>
+        </section>
+        <section>
+          <h2 class="bullet">Just the beginning...</h2>
+          <hr>
+          <ul>
+            <li>Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em></li>
+            <li>Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em></li>
+            <li>Edit JavaScript in <em>'src/scripts/main.js'</em></li>
+          </ul>
+          <hr>
+          <ul>
+            <li></li><strong>Enjoy! :)</strong><a href="http://twitter.com/markdalgleish"> -@markdalgleish</a>
+          </ul>
+        </section>
+      </article>
+      <div id="footer"><img  align="right" src="/image/mikroskil.jpg" alt="mikroskil" width="340" height="60"></div>
+    </div>
+    <!-- build:js scripts/scripts.js-->
+    <script src="bower_components/bespoke.js/dist/bespoke.min.js"></script>
+    <script src="bower_components/bespoke-keys/dist/bespoke-keys.min.js"></script>
+    <script src="bower_components/bespoke-touch/dist/bespoke-touch.min.js"></script>
+    <script src="bower_components/bespoke-bullets/dist/bespoke-bullets.min.js"></script>
+    <script src="bower_components/bespoke-scale/dist/bespoke-scale.min.js"></script>
+    <script src="bower_components/bespoke-hash/dist/bespoke-hash.min.js"></script>
+    <script src="bower_components/bespoke-progress/dist/bespoke-progress.min.js"></script>
+    <script src="bower_components/bespoke-state/dist/bespoke-state.min.js"></script>
+    <script src="bower_components/bespoke-forms/dist/bespoke-forms.min.js"></script>
+    <script src="bower_components/prism/prism.js"></script>
+    <script src="scripts/main.js"></script>
+    <!-- endbuild-->
+  </body>
+</html>
