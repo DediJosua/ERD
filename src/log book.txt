@@ -98,3 +98,39 @@ Daily Scrum
 1.semalam saya cari bahan dan push mengenai relasi
 2.hari ini saya cari bahan,edit trello dan mempush kardinalitas
 3.tidak ada kendala
+
+============================================================================================
+Scrum Master - Lamhot Nababan - 
+
+Sprint 1 :(1/06/14)
+  Tahapan Pembuatan ERD  - Markus Apriadi-
+
+Sprint 2 :(1/06/14)
+  Pembuatan Navbar dan Pembuatan Footer di Slide (node.js)  -Lamhot Nababan-
+	(Scrum Master)
+
+Progress Harian (Diupdate tiap hari)
+---------------------------------------------------------------------------------------------
+1/06/14
+Daily Scrum
+(Lamhot Nababan)
+1. Push perbaikan localhost:8000-error
+2. Push percantik tampilan slide + pembuatan navbar + pembuatan footer
+3. Terjadi kesalahan saat mempercantik slide
+
+(Dedi Josua)
+1. Push Editan section Sejarah ERD
+2. Push Editan section Notasi ERD
+3. Tidak ada kendala
+
+(Ilhamdi)
+1. Mencari bahan notasi ERD 
+2. Push Section Notasi ERD
+3. Terjadi kesalahan pada saat push
+
+(Markus Apriadi Sihotang)
+1. Push tahapan pembuatan ERD 
+2. Push jenis key pada ERD
+3. Tidak ada kendala
+
+
