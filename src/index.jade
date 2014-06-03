@@ -87,14 +87,21 @@ html
 
         section
           h2 Tahapan Pembuatan ERD
-          h3 Tahap 1 : Penentuan Entitas
-          h3 Tahap 2 : Penentuan Atributli
-          h3 Tahap 3 : Kardinalitas Relasi
-          h3 Tahap 4 : Tahapan Pembuatan ERD 
+          ul
+            li Tahap 1 : Penentuan Entitas
+            li Tahap 2 : Menentukan Relasi
+            li Tahap 3 : Gambar ERD Sementara
+            li Tahap 4 : Isi Kardinalitas
+            li Tahap 5 : Menentukan Kunci(Key) Utama
+            li Tahap 6 : Menggambar ERD Berdasarkan Kunci
+            li Tahap 7 : Menentukan Atribut
+            li Tahap 8 : Pemetaan Atribut
+            li Tahap 9 : Gambar ERD dengan Atribut
+            li Tahap 10 : Pemeriksaan Hasil
         
 
         section 
-          h2 Jenis Key Pada ERD
+          h2 Jenis-jenis Key Pada ERD
           h7 Key
           p Atribut atau kelompok atribut yang mengasumsikan nilai unik untuk tiap entitas.
           h7 Concatenated key
@@ -109,9 +116,9 @@ html
           p Primary key pada satu entitas yang diberikan (diduplikasi) kepada entitas lain untuk mengindetifikasikan hubungan.
 
 
-        section(data-bespoke-state='emphatic')
-          h2 Emphatic Slide!
-          h3 Powered by <a href="https://github.com/markdalgleish/bespoke-state">bespoke-state</a>
+        section
+          h2 Contoh ERD
+          h3 <img  align="center" src="/image/contoh-erd.jpg" alt="contoh-erd" width="400" height="300">
 
         section
           h2.bullet Just the beginning...
@@ -126,7 +133,7 @@ html
             strong Enjoy! :)
             a(href='http://twitter.com/markdalgleish')  -@markdalgleish
       div#footer
-        <img  align="right" src="/image/mikroskil.jpg" alt="mikroskil" width="339" height="59">
+        <img  align="right" src="/image/mikroskil.jpg" alt="mikroskil" width="339" height="70">
 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
