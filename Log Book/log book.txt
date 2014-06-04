@@ -99,16 +99,20 @@ Daily Scrum
 2.hari ini saya cari bahan,edit trello dan mempush kardinalitas
 3.tidak ada kendala
 
-============================================================================================
+===========================================================================================================================
 Scrum Master - Lamhot Nababan - dari 01/06/14 s/d 3/06/14
 
 Sprint pada tanggal 1/06/14
 Sprint 1 :  Tahapan Pembuatan ERD  -Markus Apriadi-
-Sprint 2 :  Pembuatan Navbar dan Pembuatan Footer di Slide (node.js)  -Lamhot Nababan-	(Scrum Master)
+Sprint 2 :  Pembuatan Navbar dan Footer di Slide (node.js) + insert image  -Lamhot Nababan-	(Scrum Master)
 Sprint 3 :  Jenis-Jenis Key pada ERD -Ilhamdi-
 
 Sprint pada tanggal 2/06/14
 Sprint 1 :  Tahapan Pembuatan ERD -Markus Apriadi-
+
+Sprint pada tanggal 3/06/14
+Sprint 1 :  Simbol ERD  -Markus Apriadi-
+Sprint 2 :  Derajat Relationship -Lamhot Nababan- (Scrum Master)
 
 Progress Harian (Diupdate tiap hari)
 ---------------------------------------------------------------------------------------------
@@ -118,41 +122,64 @@ Daily Scrum
 1. Ngepush perbaikan localhost:8000-error
 2. Ngepush percantik tampilan slide + pembuatan navbar + pembuatan footer
 3. Terjadi kesalahan saat mempercantik slide
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 (Dedi Josua)
 1. Ngepush Editan section Sejarah ERD
 2. Ngepush Editan section Notasi ERD
 3. Tidak ada kendala
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 (Ilhamdi)
 1. Mencari bahan notasi ERD 
 2. Ngepush Section Notasi ERD
 3. Terjadi kesalahan pada saat push
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 (Markus Apriadi Sihotang)
 1. Ngepush tahapan pembuatan ERD 
 2. Ngepush jenis key pada ERD
 3. Tidak ada kendala
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 2/06/14
 Daily Scrum
 (Lamhot Nababan)
 1. Ngepush Kesalahan saat mempercantik slide (navbar,footer)
 2. Ngepush Penambahan Seection Jenis-Jenis Key pada ERD
 3. Tidak ada kendala
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 (Dedi Josua)
 1. Ngepush Error waktu penambahan section pembuatan ERD
 2. Ngepush Editan section Tahapan Pembuatan ERD
 3. Tidak ada kendala
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 (Ilhamdi)
 1. Ngepush editan Notasi ERD 
 2. Cari bahan untuk push topik lainnya 
 3. Tidak ada masalah
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 (Markus Apriadi)
 1. Ngepush Editan Pembuatan ERD
 2. Ngepush tataletak image mikroskil di bagian footer
 3. Tidak ada masalah
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+3/06/14
+Daily Scrum
+(Lamhot Nababan)
+1. Ngepush section derajat relationship 
+2. Cari bahan untuk push topik lainnya
+3. Tidak ada masalah
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+(Dedi Josua)
+1. Ngepush pengeditan section jenis-jenis key ERD
+2. Cari bahan untuk push topik lainnya
+3. Tidak ada masalah 
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+(Markus Apriadi)
+1. Ngepush pengeditan section tahapan-tahapan pembuatan ERD
+2. Ngepush pengeditan section pembuatan ERD dan Contoh ERD dan +section simbol ERD
+3. Tidak ada masalah
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+(Ilhamdi)
+1. -
+2. -
+3. Terjadi kesalahan pada saat ngepush 
+
+===========================================================================================================================
