@@ -16,7 +16,7 @@ Anggota 3:
 	NIM:12 111 3851
 Anggota 4:
 	Nama:Markus Apriadi Sitohan
-	NIM:12 111 1518
+	NIM:12 111 1508
 =======================
 
 SPRINT
@@ -183,3 +183,44 @@ Daily Scrum
 3. Terjadi kesalahan pada saat ngepush 
 
 ===========================================================================================================================
+
+Scrum Master - Markus Apriadi Sitohang - dari 04/06/14 s/d 6/06/14
+
+Sprint pada tanggal 4/06/14
+Sprint 1 : Pembuatan Menu Pilihan Slide
+Sprint 2 : Sistem Pekerjaan Project
+Sprint 3 :  
+
+Sprint pada tanggal 5/06/14
+Sprint 1 :  
+
+Sprint pada tanggal 6/06/14
+Sprint 1 :
+Sprint 2 :  
+
+
+4/06/14
+Daily Scrum
+(Markus Apriadi Sitohang)
+12 1111508
+1. Ngepush pengeditan section tahapan-tahapan pembuatan ERD
+2. Ngepush Gambar Contoh Kardinalitas
+3. Tidal terjadi kesalhan
+
+(Ilhamdi)
+12 111 3479
+1. 
+2. Mengerjakan Pembuatan menu pilihan
+3. Terjadi kesalhan push
+
+(Lamhot Nababan)
+12 111 3851
+1. Ngepush section derajat relationship
+2. Ngepush Penyettingan contoh entitas dan nge push contoh entitas
+3. Tidal terjadi kesalhan
+
+(Dedi Josua)
+12 111 1516
+1. Ngepush pengeditan section jenis-jenis key ERD
+2. Ngepush contoh entitas lemah dan kuat
+3. Tidal terjadi kesalhan
