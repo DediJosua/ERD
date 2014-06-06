@@ -35,7 +35,7 @@
   display: block;
   height: 60px;
   background: #fff;
-  margin-top: 523px;
+  margin-top: 510px;
 }
 article {
   -webkit-transition: background 0.5s ease;
@@ -105,10 +105,10 @@ article.bespoke-parent {
   align-items: center;
   text-align: center;
   width: 1024px;
-  height: 420px;
+  height: 378px;
   position: absolute;
   top: 50%;
-  margin-top: -210px;
+  margin-top: -189px;
   left: 50%;
   margin-left: -512px;
   background: #fff;
